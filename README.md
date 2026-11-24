@@ -1,6 +1,6 @@
 # 水汪汪大冒險：乾眼症衛教 RPG
 
-乾眼症衛教小遊戲，四位英雄、五個關卡、30 題題庫，內容參考 TFOS DEWS III 與台灣眼科衛教。
+乾眼症衛教小遊戲 v6：每位勇者專屬 3 關路線、約 2～3 分鐘玩完、36 題題庫、專屬護眼小卡，內容參考 TFOS DEWS III 與台灣眼科衛教。
 
 遊玩：https://differentidg-boop.github.io/dry-eye-rpg/
 
